@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.timer {
+    display: flex;
+    gap: 10px;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.value {
+    font-size: 32px;
+
+}
+
+
+.form {
+    margin-top: 20px;
+}
+
+form label,
+form fieldset {
+    display: block;
+    margin-bottom: 10px;
+}
